@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chandan-itian.github.io/techcks-website/sitemap.xml
